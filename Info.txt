@@ -1,0 +1,10 @@
+ResourceManager++
+
+"A modern C++ resource-management framework built with interfaces,
+templates, smart pointers, and semantic ownership transfer."
+
+Description:
+    A type-safe and extensible resource management system powered by std::unique_ptr,
+polymorphism, compile-time templates, and semantic ID-based ownership transfer.
+    Designed to demonstrate clean architecture, strong ownership semantics,
+and modern C++20 design principles.
